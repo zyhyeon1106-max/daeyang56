@@ -1,0 +1,10 @@
+[ ] 새 GitHub 저장소에 압축을 푼 파일 업로드
+[ ] 새 Supabase 프로젝트 만들기
+[ ] Supabase Session pooler DATABASE_URL 복사
+[ ] Render 신규 Web Service 구성 (npm install / npm start)
+[ ] Render 환경변수 DATABASE_URL, ADMIN_PASSWORD, SESSION_SECRET, AUTHOR_TOKEN, NODE_ENV 등록
+[ ] https://주소/api/health 에서 storage:postgres 확인
+[ ] 관리자에서 8개 학급 학생 수 입력
+[ ] 테스트 학생 로그인 → 미션 답변 등록 → 관리자에서 글 확인 → 삭제
+[ ] 작가 전용 URL은 작가님에게만 전달
+[ ] 학교 개인정보 처리 지침에 맞게 운영 준비
